@@ -1,1 +1,1 @@
-# ImageResizerPro
+# ImageResizerPro - A professional image resizing tool, made with Python.
